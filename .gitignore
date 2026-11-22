@@ -221,3 +221,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Datos descargados (no versionar)
+data/*
+!data/.gitkeep
